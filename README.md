@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ahmed Haggag
-- 👀 I’m interested in Backend Dev.
+- 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning NodeJs
 - 📫 How to reach me: AhmedHaggag720@gmail.com
